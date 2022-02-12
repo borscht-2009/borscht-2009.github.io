@@ -1,0 +1,8 @@
+User-agent: Googlebot
+Disallow:
+User-agent: DuckDuckBot
+Disallow:
+User-agent: *
+Disallow: /
+Sitemap: https://borscht-2009.github.io/sitemap.xml
+Host: https://borscht-2009.github.io/
